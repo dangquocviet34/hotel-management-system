@@ -1,0 +1,154 @@
+D:\STUDY\Học kì 2 (2022-2023)\Lập trình hướng Đối tượng\Baitapnhom\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\STUDY\Học kì 2 (2022-2023)\Lập trình hướng Đối tượng\Baitapnhom\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\STUDY\Học kì 2 (2022-2023)\Lập trình hướng Đối tượng\Baitapnhom\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\STUDY\Học kì 2 (2022-2023)\Lập trình hướng Đối tượng\Baitapnhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+D:\STUDY\Học kì 2 (2022-2023)\Lập trình hướng Đối tượng\Baitapnhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDangNhap.resources
+D:\STUDY\Học kì 2 (2022-2023)\Lập trình hướng Đối tượng\Baitapnhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\STUDY\Học kì 2 (2022-2023)\Lập trình hướng Đối tượng\Baitapnhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\STUDY\Học kì 2 (2022-2023)\Lập trình hướng Đối tượng\Baitapnhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\STUDY\Học kì 2 (2022-2023)\Lập trình hướng Đối tượng\Baitapnhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\STUDY\Học kì 2 (2022-2023)\Lập trình hướng Đối tượng\Baitapnhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\STUDY\Học kì 2 (2022-2023)\Lập trình hướng Đối tượng\Baitapnhom\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmTableManage.resources
+D:\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\QuanLyKhachSan\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+D:\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.SuggestedBindingRedirects.cache
+D:\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDangNhap.resources
+D:\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmTableManage.resources
+D:\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\Cập_Nhật_dịch_vụ.frmCNDV.resources
+D:\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\Cập_nhật_vật_tư.frmVTKS.resources
+D:\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\CapNhatLoaiPhong.frmCNLP.resources
+D:\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLy.resources
+D:\QuanLyKhachSan\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmmain.resources
+C:\Users\DELL\Downloads\QuanLyKhachSan (4)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\DELL\Downloads\QuanLyKhachSan (4)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\DELL\Downloads\QuanLyKhachSan (4)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\DELL\Downloads\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLy.resources
+C:\Users\DELL\Downloads\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\Cập_nhật_vật_tư.frmVTKS.resources
+C:\Users\DELL\Downloads\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\CapNhatLoaiPhong.frmCNLP.resources
+C:\Users\DELL\Downloads\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\Cập_Nhật_dịch_vụ.frmCNDV.resources
+C:\Users\DELL\Downloads\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDangNhap.resources
+C:\Users\DELL\Downloads\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmTableManage.resources
+C:\Users\DELL\Downloads\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\DELL\Downloads\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\DELL\Downloads\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\QuanLyKhachSan\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\QuanLyKhachSan\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\QuanLyKhachSan\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\QuanLyKhachSan\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+D:\QuanLyKhachSan\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.SuggestedBindingRedirects.cache
+D:\QuanLyKhachSan\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLy.resources
+D:\QuanLyKhachSan\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\Cập_nhật_vật_tư.frmVTKS.resources
+D:\QuanLyKhachSan\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\CapNhatLoaiPhong.frmCNLP.resources
+D:\QuanLyKhachSan\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\Cập_Nhật_dịch_vụ.frmCNDV.resources
+D:\QuanLyKhachSan\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDangNhap.resources
+D:\QuanLyKhachSan\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmTableManage.resources
+D:\QuanLyKhachSan\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\QuanLyKhachSan\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\QuanLyKhachSan\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\QuanLyKhachSan\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\QuanLyKhachSan\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\QuanLyKhachSan\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDatphong.resources
+D:\QuanLyKhachSan\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQLKH.resources
+D:\QuanLyKhachSan\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQLHTP.resources
+D:\STUDY\Học kì 2 (2022-2023)\Lập trình hướng Đối tượng\Baitapnhom\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+D:\STUDY\Học kì 2 (2022-2023)\Lập trình hướng Đối tượng\Baitapnhom\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+D:\STUDY\Học kì 2 (2022-2023)\Lập trình hướng Đối tượng\Baitapnhom\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+D:\STUDY\Học kì 2 (2022-2023)\Lập trình hướng Đối tượng\Baitapnhom\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+D:\STUDY\Học kì 2 (2022-2023)\Lập trình hướng Đối tượng\Baitapnhom\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLy.resources
+D:\STUDY\Học kì 2 (2022-2023)\Lập trình hướng Đối tượng\Baitapnhom\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\Cập_Nhật_dịch_vụ.frmCNDV.resources
+D:\STUDY\Học kì 2 (2022-2023)\Lập trình hướng Đối tượng\Baitapnhom\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDangNhap.resources
+D:\STUDY\Học kì 2 (2022-2023)\Lập trình hướng Đối tượng\Baitapnhom\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+D:\STUDY\Học kì 2 (2022-2023)\Lập trình hướng Đối tượng\Baitapnhom\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+D:\STUDY\Học kì 2 (2022-2023)\Lập trình hướng Đối tượng\Baitapnhom\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\STUDY\Học kì 2 (2022-2023)\Lập trình hướng Đối tượng\Baitapnhom\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+D:\STUDY\Học kì 2 (2022-2023)\Lập trình hướng Đối tượng\Baitapnhom\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+D:\STUDY\Học kì 2 (2022-2023)\Lập trình hướng Đối tượng\Baitapnhom\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmHome.resources
+D:\STUDY\Học kì 2 (2022-2023)\Lập trình hướng Đối tượng\Baitapnhom\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThongTinCaNhan.resources
+D:\STUDY\Học kì 2 (2022-2023)\Lập trình hướng Đối tượng\Baitapnhom\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmManHinhChinh.resources
+D:\STUDY\Học kì 2 (2022-2023)\Lập trình hướng Đối tượng\Baitapnhom\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmPhieuDatphong.resources
+C:\Users\DELL\Downloads\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\DELL\Downloads\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\DELL\Downloads\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\DELL\Downloads\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmPhieuDatphong.resources
+C:\Users\DELL\Downloads\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmHome.resources
+C:\Users\DELL\Downloads\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLy.resources
+C:\Users\DELL\Downloads\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThongTinCaNhan.resources
+C:\Users\DELL\Downloads\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\Cập_Nhật_dịch_vụ.frmCNDV.resources
+C:\Users\DELL\Downloads\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDangNhap.resources
+C:\Users\DELL\Downloads\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmManHinhChinh.resources
+C:\Users\DELL\Downloads\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\DELL\Downloads\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\DELL\Downloads\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\DELL\Desktop\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\DELL\Desktop\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\DELL\Desktop\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\DELL\Desktop\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmPhieuDatphong.resources
+C:\Users\DELL\Desktop\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmHome.resources
+C:\Users\DELL\Desktop\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLy.resources
+C:\Users\DELL\Desktop\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThongTinCaNhan.resources
+C:\Users\DELL\Desktop\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDangNhap.resources
+C:\Users\DELL\Desktop\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmManHinhChinh.resources
+C:\Users\DELL\Desktop\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\DELL\Desktop\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\DELL\Desktop\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\DELL\Downloads\DemoOOP\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\DemoOOP\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmPhieuDatphong.resources
+C:\Users\DELL\Downloads\DemoOOP\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmHome.resources
+C:\Users\DELL\Downloads\DemoOOP\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLy.resources
+C:\Users\DELL\Downloads\DemoOOP\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThongTinCaNhan.resources
+C:\Users\DELL\Downloads\DemoOOP\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDangNhap.resources
+C:\Users\DELL\Downloads\DemoOOP\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmManHinhChinh.resources
+C:\Users\DELL\Downloads\DemoOOP\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\DELL\Downloads\DemoOOP\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\DELL\Downloads\DemoOOP\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\DemoOOP\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\DELL\Downloads\DemoOOP\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\DELL\Downloads\DemoOOP\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\DELL\Downloads\DemoOOP\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\DELL\Downloads\DemoOOP\QLKS_Final1\QLKS\QuanLyKhachSan (4)\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\DELL\Desktop\QuanLyKhach_FINAL - Copy\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\DELL\Desktop\QuanLyKhach_FINAL - Copy\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\DELL\Desktop\QuanLyKhach_FINAL - Copy\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\DELL\Desktop\QuanLyKhach_FINAL - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\QuanLyKhach_FINAL - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmPhieuDatphong.resources
+C:\Users\DELL\Desktop\QuanLyKhach_FINAL - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmHome.resources
+C:\Users\DELL\Desktop\QuanLyKhach_FINAL - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLy.resources
+C:\Users\DELL\Desktop\QuanLyKhach_FINAL - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThongTinCaNhan.resources
+C:\Users\DELL\Desktop\QuanLyKhach_FINAL - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDangNhap.resources
+C:\Users\DELL\Desktop\QuanLyKhach_FINAL - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmManHinhChinh.resources
+C:\Users\DELL\Desktop\QuanLyKhach_FINAL - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\DELL\Desktop\QuanLyKhach_FINAL - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\QuanLyKhach_FINAL - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\QuanLyKhach_FINAL - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\DELL\Desktop\QuanLyKhach_FINAL - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
+C:\Users\DELL\Desktop\QuanLyKhach_FINAL - Copy - Copy\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe.config
+C:\Users\DELL\Desktop\QuanLyKhach_FINAL - Copy - Copy\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.exe
+C:\Users\DELL\Desktop\QuanLyKhach_FINAL - Copy - Copy\QuanLyKhachSan\bin\Debug\QuanLyKhachSan.pdb
+C:\Users\DELL\Desktop\QuanLyKhach_FINAL - Copy - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\QuanLyKhach_FINAL - Copy - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmPhieuDatphong.resources
+C:\Users\DELL\Desktop\QuanLyKhach_FINAL - Copy - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmHome.resources
+C:\Users\DELL\Desktop\QuanLyKhach_FINAL - Copy - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmQuanLy.resources
+C:\Users\DELL\Desktop\QuanLyKhach_FINAL - Copy - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmThongTinCaNhan.resources
+C:\Users\DELL\Desktop\QuanLyKhach_FINAL - Copy - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmDangNhap.resources
+C:\Users\DELL\Desktop\QuanLyKhach_FINAL - Copy - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.frmManHinhChinh.resources
+C:\Users\DELL\Desktop\QuanLyKhach_FINAL - Copy - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.Properties.Resources.resources
+C:\Users\DELL\Desktop\QuanLyKhach_FINAL - Copy - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\QuanLyKhach_FINAL - Copy - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\QuanLyKhach_FINAL - Copy - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.exe
+C:\Users\DELL\Desktop\QuanLyKhach_FINAL - Copy - Copy\QuanLyKhachSan\obj\Debug\QuanLyKhachSan.pdb
